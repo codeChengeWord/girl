@@ -16,6 +16,7 @@ import static org.junit.Assert.*;
  * 对Controller进行测试
  * @AutoConfigureMockMvc 像发送请求一样
  * 我要向梦一样自由
+ * 向天空一样坚强
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
