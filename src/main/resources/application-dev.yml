@@ -1,8 +1,0 @@
-server:
-  port: 8081  #配置服务默认的端口号
-cupSize: B
-age: 18
-content: "cupSize:${cupSize},age:${age}"  #在配置中引入其他的配置
-girl:  #配置多个属性的前缀在引用的时候只需要引用前缀
-  cupSize: D
-  age: 20
